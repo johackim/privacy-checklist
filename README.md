@@ -29,6 +29,7 @@ Self-hosting
 - [ ] Self-host a [Google Alternative](https://searx.me)
 - [ ] Self-host a [Google Hangout/Skype Alternative](https://meet.jit.si/)
 - [ ] Self-host a [Google Analytics Alternative](https://piwik.org/)
+- [ ] Self-host a [Google Calendar Alternative](http://radicale.org/)
 - [ ] Self-host a [Twitter Alternative](https://joinmastodon.org/)
 - [ ] Self-host a [Dropbox Alternative](https://nextcloud.com/)
 - [ ] Self-host a [Slack Alternative](https://rocket.chat/)
