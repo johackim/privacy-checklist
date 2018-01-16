@@ -5,7 +5,7 @@ Privacy-checklist
 >
 > Edward Snowden
 
-https://blog.ston3o.me/protect-your-privacy/
+Blog article: https://blog.ston3o.me/protect-your-privacy/
 
 ## Table of Contents
 
