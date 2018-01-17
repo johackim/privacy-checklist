@@ -128,4 +128,4 @@ Buy me a beer (BTC): 112aZxX9Jiya4TM6Le4foxTq9V8U6aVGbG
 
 ## License
 
-This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the CC BY-SA 4.0 - see the [LICENSE.txt](LICENSE.txt) file for details
