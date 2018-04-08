@@ -117,6 +117,7 @@ Other Resources
 - [Recommended Privacy Tools](https://www.privacytools.io/)
 - [Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora](https://prism-break.org/en/)
 - [Tips, Tools and How-tos for Safer Online Communications](https://ssd.eff.org/)
+- [Curated List of Privacy Respecting Services and Software](https://github.com/nikitavoloboev/privacy-respecting)
 
 ## Donate
 
