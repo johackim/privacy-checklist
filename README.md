@@ -60,6 +60,7 @@ Phone
 - [ ] Use open-source Operating system - [LineageOS](https://www.lineageos.org/)
 - [ ] Detect attacks of fake base stations (IMSI-Catcher) on your GSM/UMTS network - [AIMSICD](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/)
 - [ ] Android application to monitor your physical room in your absence - [haven](https://github.com/guardianproject/haven)
+- [ ] Anonymously send & receive SMS messages - [Anonymous BTC SMS](https://www.anonymousbtcsms.com/)
 
 Passwords
 ---
