@@ -115,10 +115,12 @@ Backups
 Other Resources
 ---
 
+- [Clean up your online presence](https://deseat.me)
 - [Recommended Privacy Tools](https://www.privacytools.io/)
 - [Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora](https://prism-break.org/en/)
 - [Tips, Tools and How-tos for Safer Online Communications](https://ssd.eff.org/)
 - [Curated List of Privacy Respecting Services and Software](https://github.com/nikitavoloboev/privacy-respecting)
+- [Alternatives Internet](https://redecentralize.github.io/alternative-internet/)
 
 ## Donate
 
